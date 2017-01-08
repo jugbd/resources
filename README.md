@@ -3,4 +3,4 @@
 
 ## Table of Contents
 
-- [Learing Resources](#learning-resources)
+- [Learing Resources](#learning-resources.md)
