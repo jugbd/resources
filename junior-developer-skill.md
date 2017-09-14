@@ -1,11 +1,11 @@
 # What are the top coding and collaboration skills a junior developer should have to get hired?
 
-Few days ago we had a question about "What are the top coding and collaboration skills a junior developer should have to get hired". Here is my answer in brief.
+Few days ago we had a question in our Facebook group - "What are the top coding and collaboration skills a junior developer should have to get hired?". Here is my answer in brief.
 
 * Solid understanding of the core programming language.
-* Good problem solving or algorithm skill. You don't need to be ACM world finalist. But you should be able to convert any algorithm into code without much effort.
+* Good problem solving and algorithm skill. You don't need to be an ACM world finalist. But you should be able to convert any algorithm into code without much effort.
 * Basic understanding of OOP.
-* Familiarity with the commonly used data structures like set, list, tree etc.
+* Familiarity with the commonly used data structures like set, list, tree etc. And understands when to use what.
 * Knows what design patterns are. Heard names of many of the design patterns. Can explain one or two with some real world examples.
 * Have read `The Pragmatic Programmers` and `Effective Java`. Added plus if also read `Clean Code`, `Code Complete` etc.
 * Understanding the importance of code readability.
@@ -24,7 +24,7 @@ Few days ago we had a question about "What are the top coding and collaboration 
 * Can express himself clearly in either bangla or english. Ability to draw clear diagrams if that is needed to explain something.
 * Excellent listening skill. Listen carefully and with patience. Never interrupt someone, wait for him/her to finish, then speak.
 * Accepting mistakes. We are all human and we make mistakes no matter how smart I think I am.
-* No ego. Absolutely none at at all.
+* No ego. Absolutely none at all.
 * Be Humble and polite.
 * Last but not least, understanding that there is no magic skillset to get hired immediately. Hiring depends on a lot of things. So even if you are really very good you may be just unlucky and not get hired. Don't be disappointed and keep pushing your limits.
 
