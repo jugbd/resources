@@ -49,6 +49,8 @@ Those who like to video tutorial to learn Spring, Spring MVC and other Spring re
 Another good site where Mozammel bhai (Admin of this group) taught Spring in Bangla. So, those who want to learn Spring framework in Bangla, it will be an excellent option.
 5. Spring in Action, Third Edition (Manning publication)
 One of the best book for learning spring in depth.
+6. Hackr.io
+A site where you can find a list of curated resources that are voted by the programming community.
 
 
 ### Functional Programming, based on JVM
